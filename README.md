@@ -1980,6 +1980,8 @@ _Display non-editable events in a Calendar_
 - [vue-mars3d](https://github.com/marsgis/mars3d-vue-template) - Vue 2.x 3D earth visualization JS development platform.
 - [vue-leaflet-custom-marker](https://github.com/eregnier/vue-leaflet-custom-marker) - Vue leaflet for open street map custom marker component
 - [vue-maplibre-gl](https://github.com/razorness/vue-maplibre-gl) - Vue 3.x wrapper around Maplibre GL JS library written in TS. Including style switch and frame rate control.
+- [arcgis-rest-js](https://github.com/Esri/arcgis-rest-js) - JavaScript modules for accessing ArcGIS services and building mapping and spatial analysis applications. ![image](https://github.com/user-attachments/assets/c9b6268e-a032-465f-8de5-3bd97d797b17)
+
 
 #### Audio / Video
 
